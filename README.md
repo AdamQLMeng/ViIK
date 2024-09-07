@@ -32,3 +32,5 @@ An example for evaluating ViIK-2:
 ```
 python evaluate.py --robot_name=panda --num_nodes_value=24 --model_file=${PATH2CKPT}$
 ```
+## References
+- IKFlow: https://github.com/jstmn/ikflow
